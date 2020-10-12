@@ -2,10 +2,10 @@
 An implementation of Stop and Wait Protocol (Protocol 4) using Socket programming in Python.
 
 ## About the Code:
--> The input files are being expected from the Network layer and the code does necessary framming using flag and escape character.
--> This encoded file is then transferreed using the Physial Layer which is Socket in our case.
-The encoded file recieved on the other hand is than decoded and the original message is then sent to the above layer(Network Layer on other side).
-According the Stop and Wait the code works for two way transmission.
+1) The input files are being expected from the Network layer and the code does necessary framming using flag and escape character.
+2) This encoded file is then transferreed using the Physial Layer which is Socket in our case.
+3) The encoded file recieved on the other hand is than decoded and the original message is then sent to the above layer(Network Layer on other side).
+4) According the Stop and Wait the code works for two way transmission.
 
 ## Steps:
 1) Run sender.py on one computer and reciever.py on another computer.
