@@ -10,4 +10,4 @@ An implementation of Stop and Wait Protocol (Protocol 4) using Socket programmin
 ## Steps:
 1) Run sender.py on one computer and reciever.py on another computer.
 2) Enter the Hostname provided in one computer into another for the Connection establishment.
-3) The File given provided inside the code will then be transferred using the Physcal Layer(Socket in our case).
+3) The File given provided inside the code will then be transferred using the Physical Layer(Socket in our case).
